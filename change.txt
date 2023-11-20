@@ -1,1 +1,3 @@
 Nowy kod
+
+Dodanie nowego tekstu do kodu źródłowego
