@@ -3,3 +3,5 @@ Nowy kod
 Dodanie nowego tekstu do kodu źródłowego
 
 Mergowanie commita
+
+Nowe dane przesłanie tylko usunięcie ass.s
